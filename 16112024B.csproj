@@ -15,10 +15,8 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="ColorLibrary" Version="1.0.0" />
     <PackageReference Include="System.CommandLine" Version="2.0.0-beta4.22272.1" />
-    <Reference Include="ColorLibrary">
-      <HintPath>.\ColorLibrary.dll</HintPath>
-    </Reference>
   </ItemGroup>
 
 </Project>

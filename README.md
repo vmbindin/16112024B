@@ -12,7 +12,8 @@ Simple console app that uses class library or dll
 
 ## add package
 
-`dotnet add package System.CommandLine --prerelease`
+`dotnet add package System.CommandLine --prerelease`\
+`dotnet add package ColorLibrary --source .`
 
 ## build
 
